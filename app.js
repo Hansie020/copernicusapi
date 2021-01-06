@@ -5,8 +5,8 @@ var Axios = require('axios');
 
 var rpcURL = 'https://mainnet.infura.io/v3/7bc9bb0fa3834df7b04489363689a10e'// Your RPC URL goes here
 var myWeb3 = new Web3(rpcURL)
-var address2 = '0x2842774a57B48ae2169Ef72eE96c04e71F599020' // Contract address
-var address1 = '0x261DA2ec51C1e3c52222c61261Ee22E5166254de' // Contract wallet address
+var address2 = '0x2842774a57B48ae2169Ef72eE96c04e71F599020' // Contract wallet address
+var address1 = '0x261DA2ec51C1e3c52222c61261Ee22E5166254de' // Contract  address
 
 
 // Process the API call
